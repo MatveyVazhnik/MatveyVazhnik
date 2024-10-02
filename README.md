@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNhZTRleXV0Yjlub2o4eHVkZ3AyejI1bmZ6YjQzZzN1enRoemJ0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WTL4qQCbbLLV2Pm/giphy.gif" width="100"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/matvey-vazhnik/">
